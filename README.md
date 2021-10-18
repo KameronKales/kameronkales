@@ -2,9 +2,7 @@ Hey I'm Kam. Im an expert front end developer familiar with multiple frameworks 
 
 I write clean, extendable code and build teams that do too. 
 
-Working at Vanguard helping implement single spa, so lots of teams can build apps independently. 
-
-I am available for part time consulting work to help your organization do the same. 
+Most recently worked on micro front ends at Vanguard. Before that built a browser based DSL for Jack Henry / Banno.com
 
 
 
